@@ -1,0 +1,27 @@
+Contains all the ID's for each of the Items in the game.
+Each ID is unique.
+
+[Usable]
+
+Item Name    Item ID
+
+Axe -------- 2
+Hammer ----- 54
+
+
+[Contruction]
+
+Item Name    Item ID
+
+Log -------- 3
+Stick ------ 4
+Stone ------ 5
+Campfire -- 33
+
+
+[Miscelaneous]
+
+Item Name     Item ID
+
+Cube -------- 1
+Double Cube - 22

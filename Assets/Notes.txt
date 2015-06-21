@@ -1,0 +1,14 @@
+[Priority]
+
+1. Check for making a global script for interactable nature resources (Fruit Bush, Water...);
+2. Make certain tools limited to being usable to gather only resources within its utility.
+
+[Ideas/Optional]
+
+1. Make resource gathering degradable as you gather them (i.e a stone drops rocks as it's damaged);
+2. Add a jornal that adds information about the things the player discovers/sees/goes through inside the game;
+3. Fix the axe animation not resseting to its original starting position.
+
+[Notes]
+
+1. A day/night cycle takes 9 minutes.
